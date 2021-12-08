@@ -14,6 +14,9 @@ In this repository, we present a sample of `Log files`, `Json files`, and `Datab
 # Point of Contact
 [The Cyber Center for Security and Analytics at the University of Texas at San Antonio](https://business.utsa.edu/academic-centers/cyber-center-security-analytics/)
 
+
 Morteza Safaei Pour,  email: firstletter.lastname `at` sdsu `dot` edu
+
 Joseph Khoury,        email: firstname.lastname `at` utsa `dot` edu
+
 Dr. Elias Bou-Harb,   email: firstname.lastname `at` utsa `dot` edu
